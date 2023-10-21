@@ -1,0 +1,50 @@
+f6e3c56e a            # new variable called 'a'
+4e1f9859              # new variable
+e1052463 b 1          # new variable called 'b' set to 1
+4c7101c0 1            # new variable set to 1
+3d48442c c 'hi'       # new variable called 'c' set to 'hi'
+e7dc3c9b !e1052463    # new variable set to value of b (1)
+7c815a62 b            # new variable set to the value of b (1)
+32a72757 b 3          # set variable 32a72757 and b to 3
+8d96c463 !b           # set variable 8d96c463 (basically, print b)
+599f3028 b !3d48442c  # set variable b to 'hi' 
+c12ab0fe 
+957183a5 
+972a080d 
+7025c60e 
+d92c8f0f 
+bedf41d6 
+3d4fa607 
+e4abe12b 
+6e5364c4 
+8d11377e 
+1125b0d9 
+99d560ff 
+ab431126 
+92807ac1 
+b33df7a0 
+abcd4b3e 
+611e5012 
+2c2632a5 
+89100b28 
+36589be8 
+23d3e233 
+b7ef5d8c 
+a5795f41 
+4546e3ca 
+3fb50650 
+2bbfa6b4 
+c695912e 
+7226d165 
+6608472d 
+42efacf2 
+9b3792e4 
+52e09ea4 
+a6e4a07a 
+18a7583a 
+e86c29ef 
+96151645 
+c639f5fd 
+e7168051 
+091edb8e 
+49916d34 
